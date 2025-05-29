@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: System Conference Deadlines
+description: Countdowns to top Systems conference deadlines (forked from AI Deadlines)
+author: Tareq Mahmood
 
-domain: "aideadlin.es"
-baseurl: ""
+domain: "tareqmahmood.github.io"
+baseurl: "/sys-deadlines"
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: ""
+github_username: "tareqmahmood"
+github_repo: sys-deadlines
 
 markdown: kramdown
 ga_id:
