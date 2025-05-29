@@ -23,6 +23,10 @@
               var subs = e.events[i].subject.split(',');
               for (let i = 0; i < subs.length; i++) {
                 var sub = subs[i].replace(" ", "");
+                // add gaps if there are multiple subjects
+                if (i > 0) {
+                  badges_html += '&nbsp;';
+                }
                 badges_html += '<span class="conf-sub conf-badge-small">' + sub + '</span>'
               }
               if (e.events[i].hindex != "") {
