@@ -35,7 +35,7 @@
   date: April 20-23, 2026
   start: 2026-04-20
   end: 2026-04-23
-  sub: ["OS", "Net", "SS"]
+  sub: ["OS", "NET", "SS"]
 
 - title: EuroSys (Fall)
   year: 2026
@@ -48,7 +48,7 @@
   date: April 20-23, 2026
   start: 2026-04-20
   end: 2026-04-23
-  sub: ["OS", "Net", "SS"]
+  sub: ["OS", "NET", "SS"]
 
 - title: ASPLOS (Spring)
   year: 2026
@@ -61,7 +61,7 @@
   date: March 22-26, 2026
   start: 2026-03-22
   end: 2026-03-26
-  sub: ["OS", "Net", "SS"]
+  sub: ["OS", "NET", "SS"]
 
 - title: ASPLOS (Summer)
   year: 2026
@@ -74,4 +74,4 @@
   date: March 22-26, 2026
   start: 2026-03-22
   end: 2026-03-26
-  sub: ["OS", "Net", "SS"]
+  sub: ["OS", "NET", "SS"]
