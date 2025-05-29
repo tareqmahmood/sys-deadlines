@@ -1,6 +1,6 @@
 ---
 - name: Networking
-  sub: Net
+  sub: NET
   color: "#ffd300"
 - name: Operating Systems
   sub: OS
