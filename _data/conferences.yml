@@ -127,3 +127,16 @@
   start: 2026-07-13
   end: 2026-07-15
   sub: OS
+
+- title: SOSP
+  year: 2026
+  id: sosp-2026
+  link: https://sigops.org/s/conferences/sosp/2026/cfp.html
+  deadline: '2026-04-01 23:59:59'
+  abstract_deadline: '2026-03-26 23:59:59'
+  timezone: UTC-12
+  place: Prague, Czechia
+  date: Sep 29 - Oct 2, 2026
+  start: 2026-09-29
+  end: 2026-10-02
+  sub: OS
