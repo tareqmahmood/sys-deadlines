@@ -37,3 +37,6 @@ To add or update a deadline:
     ```
 - Send a pull request
 
+# Development
+
+Run `podman.sh` and visit `http://localhost:4000/sys-deadlines/`
