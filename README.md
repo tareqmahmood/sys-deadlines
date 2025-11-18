@@ -18,7 +18,7 @@ touch .env
 ### Example
 
 ```bash
-uv run main.py -u <url-of-cfp-page>
+uv run extract.py -u <url-of-cfp-page>
 ```
 
 
